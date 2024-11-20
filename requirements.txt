@@ -2,5 +2,3 @@ flask
 flask-sqlalchemy
 flask-login
 flask-admin
-flask-wtf
-werkzeug
